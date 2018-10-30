@@ -18,8 +18,8 @@ function Greeting(props) {
     return <GuestGreeting />;
 }
 
+
+
 ReactDOM.render(
-    //toggle changing isLoggedIn = {true / false}:
-    <Greeting isLoggedIn={false} />,
-document.getElementById('root')
+
 );
